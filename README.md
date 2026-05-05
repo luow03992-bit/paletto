@@ -1,0 +1,2 @@
+# paletto
+Color coding 
